@@ -44,3 +44,4 @@ sites/simpletest
 *.sql
 .lando.yml
 files_migrate/
+frontend/node_modules
