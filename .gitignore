@@ -42,6 +42,6 @@ sites/simpletest
 # simpletest
 
 *.sql
-.lando.yml
 files_migrate/
 frontend/node_modules
+/example.gitignore
