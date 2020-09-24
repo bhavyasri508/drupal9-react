@@ -5,3 +5,6 @@ config:
 services:
   legacydatabase:
     type: mysql
+proxy:
+  appserver:
+    - utoronto-9.lndo.site:8888
